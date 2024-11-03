@@ -1,2 +1,2 @@
 # C-Sharp-Practice
-C#入門練習筆記
+個人用C#入門練習筆記
