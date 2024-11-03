@@ -1,0 +1,15 @@
+D:\Coding\C#\Practice\ConsoleApp11\ConsoleApp11\bin\Debug\net7.0\ConsoleApp11.exe
+D:\Coding\C#\Practice\ConsoleApp11\ConsoleApp11\bin\Debug\net7.0\ConsoleApp11.deps.json
+D:\Coding\C#\Practice\ConsoleApp11\ConsoleApp11\bin\Debug\net7.0\ConsoleApp11.runtimeconfig.json
+D:\Coding\C#\Practice\ConsoleApp11\ConsoleApp11\bin\Debug\net7.0\ConsoleApp11.dll
+D:\Coding\C#\Practice\ConsoleApp11\ConsoleApp11\bin\Debug\net7.0\ConsoleApp11.pdb
+D:\Coding\C#\Practice\ConsoleApp11\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.csproj.AssemblyReference.cache
+D:\Coding\C#\Practice\ConsoleApp11\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Practice\ConsoleApp11\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.AssemblyInfoInputs.cache
+D:\Coding\C#\Practice\ConsoleApp11\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.AssemblyInfo.cs
+D:\Coding\C#\Practice\ConsoleApp11\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Practice\ConsoleApp11\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.dll
+D:\Coding\C#\Practice\ConsoleApp11\ConsoleApp11\obj\Debug\net7.0\refint\ConsoleApp11.dll
+D:\Coding\C#\Practice\ConsoleApp11\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.pdb
+D:\Coding\C#\Practice\ConsoleApp11\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.genruntimeconfig.cache
+D:\Coding\C#\Practice\ConsoleApp11\ConsoleApp11\obj\Debug\net7.0\ref\ConsoleApp11.dll
