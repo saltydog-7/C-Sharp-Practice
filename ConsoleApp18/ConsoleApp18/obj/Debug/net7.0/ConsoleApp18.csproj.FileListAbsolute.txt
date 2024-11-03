@@ -1,0 +1,15 @@
+D:\Coding\C#\Practice\ConsoleApp18\ConsoleApp18\bin\Debug\net7.0\ConsoleApp18.exe
+D:\Coding\C#\Practice\ConsoleApp18\ConsoleApp18\bin\Debug\net7.0\ConsoleApp18.deps.json
+D:\Coding\C#\Practice\ConsoleApp18\ConsoleApp18\bin\Debug\net7.0\ConsoleApp18.runtimeconfig.json
+D:\Coding\C#\Practice\ConsoleApp18\ConsoleApp18\bin\Debug\net7.0\ConsoleApp18.dll
+D:\Coding\C#\Practice\ConsoleApp18\ConsoleApp18\bin\Debug\net7.0\ConsoleApp18.pdb
+D:\Coding\C#\Practice\ConsoleApp18\ConsoleApp18\obj\Debug\net7.0\ConsoleApp18.csproj.AssemblyReference.cache
+D:\Coding\C#\Practice\ConsoleApp18\ConsoleApp18\obj\Debug\net7.0\ConsoleApp18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Practice\ConsoleApp18\ConsoleApp18\obj\Debug\net7.0\ConsoleApp18.AssemblyInfoInputs.cache
+D:\Coding\C#\Practice\ConsoleApp18\ConsoleApp18\obj\Debug\net7.0\ConsoleApp18.AssemblyInfo.cs
+D:\Coding\C#\Practice\ConsoleApp18\ConsoleApp18\obj\Debug\net7.0\ConsoleApp18.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Practice\ConsoleApp18\ConsoleApp18\obj\Debug\net7.0\ConsoleApp18.dll
+D:\Coding\C#\Practice\ConsoleApp18\ConsoleApp18\obj\Debug\net7.0\refint\ConsoleApp18.dll
+D:\Coding\C#\Practice\ConsoleApp18\ConsoleApp18\obj\Debug\net7.0\ConsoleApp18.pdb
+D:\Coding\C#\Practice\ConsoleApp18\ConsoleApp18\obj\Debug\net7.0\ConsoleApp18.genruntimeconfig.cache
+D:\Coding\C#\Practice\ConsoleApp18\ConsoleApp18\obj\Debug\net7.0\ref\ConsoleApp18.dll
