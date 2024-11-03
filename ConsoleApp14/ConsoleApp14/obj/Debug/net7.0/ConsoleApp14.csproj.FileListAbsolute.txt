@@ -1,0 +1,15 @@
+D:\Coding\C#\Practice\ConsoleApp14\ConsoleApp14\obj\Debug\net7.0\ConsoleApp14.csproj.AssemblyReference.cache
+D:\Coding\C#\Practice\ConsoleApp14\ConsoleApp14\obj\Debug\net7.0\ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Practice\ConsoleApp14\ConsoleApp14\obj\Debug\net7.0\ConsoleApp14.AssemblyInfoInputs.cache
+D:\Coding\C#\Practice\ConsoleApp14\ConsoleApp14\obj\Debug\net7.0\ConsoleApp14.AssemblyInfo.cs
+D:\Coding\C#\Practice\ConsoleApp14\ConsoleApp14\obj\Debug\net7.0\ConsoleApp14.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Practice\ConsoleApp14\ConsoleApp14\bin\Debug\net7.0\ConsoleApp14.exe
+D:\Coding\C#\Practice\ConsoleApp14\ConsoleApp14\bin\Debug\net7.0\ConsoleApp14.deps.json
+D:\Coding\C#\Practice\ConsoleApp14\ConsoleApp14\bin\Debug\net7.0\ConsoleApp14.runtimeconfig.json
+D:\Coding\C#\Practice\ConsoleApp14\ConsoleApp14\bin\Debug\net7.0\ConsoleApp14.dll
+D:\Coding\C#\Practice\ConsoleApp14\ConsoleApp14\bin\Debug\net7.0\ConsoleApp14.pdb
+D:\Coding\C#\Practice\ConsoleApp14\ConsoleApp14\obj\Debug\net7.0\ConsoleApp14.dll
+D:\Coding\C#\Practice\ConsoleApp14\ConsoleApp14\obj\Debug\net7.0\refint\ConsoleApp14.dll
+D:\Coding\C#\Practice\ConsoleApp14\ConsoleApp14\obj\Debug\net7.0\ConsoleApp14.pdb
+D:\Coding\C#\Practice\ConsoleApp14\ConsoleApp14\obj\Debug\net7.0\ConsoleApp14.genruntimeconfig.cache
+D:\Coding\C#\Practice\ConsoleApp14\ConsoleApp14\obj\Debug\net7.0\ref\ConsoleApp14.dll

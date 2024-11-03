@@ -1,0 +1,15 @@
+D:\Coding\C#\Practice\ConsoleApp13\ConsoleApp13\obj\Debug\net7.0\ConsoleApp13.csproj.AssemblyReference.cache
+D:\Coding\C#\Practice\ConsoleApp13\ConsoleApp13\obj\Debug\net7.0\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Practice\ConsoleApp13\ConsoleApp13\obj\Debug\net7.0\ConsoleApp13.AssemblyInfoInputs.cache
+D:\Coding\C#\Practice\ConsoleApp13\ConsoleApp13\obj\Debug\net7.0\ConsoleApp13.AssemblyInfo.cs
+D:\Coding\C#\Practice\ConsoleApp13\ConsoleApp13\obj\Debug\net7.0\ConsoleApp13.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Practice\ConsoleApp13\ConsoleApp13\bin\Debug\net7.0\ConsoleApp13.exe
+D:\Coding\C#\Practice\ConsoleApp13\ConsoleApp13\bin\Debug\net7.0\ConsoleApp13.deps.json
+D:\Coding\C#\Practice\ConsoleApp13\ConsoleApp13\bin\Debug\net7.0\ConsoleApp13.runtimeconfig.json
+D:\Coding\C#\Practice\ConsoleApp13\ConsoleApp13\bin\Debug\net7.0\ConsoleApp13.dll
+D:\Coding\C#\Practice\ConsoleApp13\ConsoleApp13\bin\Debug\net7.0\ConsoleApp13.pdb
+D:\Coding\C#\Practice\ConsoleApp13\ConsoleApp13\obj\Debug\net7.0\ConsoleApp13.dll
+D:\Coding\C#\Practice\ConsoleApp13\ConsoleApp13\obj\Debug\net7.0\refint\ConsoleApp13.dll
+D:\Coding\C#\Practice\ConsoleApp13\ConsoleApp13\obj\Debug\net7.0\ConsoleApp13.pdb
+D:\Coding\C#\Practice\ConsoleApp13\ConsoleApp13\obj\Debug\net7.0\ConsoleApp13.genruntimeconfig.cache
+D:\Coding\C#\Practice\ConsoleApp13\ConsoleApp13\obj\Debug\net7.0\ref\ConsoleApp13.dll
