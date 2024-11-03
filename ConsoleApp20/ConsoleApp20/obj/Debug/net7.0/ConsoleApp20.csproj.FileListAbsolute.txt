@@ -1,0 +1,15 @@
+D:\Coding\C#\Practice\ConsoleApp20\ConsoleApp20\obj\Debug\net7.0\ConsoleApp20.csproj.AssemblyReference.cache
+D:\Coding\C#\Practice\ConsoleApp20\ConsoleApp20\obj\Debug\net7.0\ConsoleApp20.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Practice\ConsoleApp20\ConsoleApp20\obj\Debug\net7.0\ConsoleApp20.AssemblyInfoInputs.cache
+D:\Coding\C#\Practice\ConsoleApp20\ConsoleApp20\obj\Debug\net7.0\ConsoleApp20.AssemblyInfo.cs
+D:\Coding\C#\Practice\ConsoleApp20\ConsoleApp20\obj\Debug\net7.0\ConsoleApp20.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Practice\ConsoleApp20\ConsoleApp20\bin\Debug\net7.0\ConsoleApp20.exe
+D:\Coding\C#\Practice\ConsoleApp20\ConsoleApp20\bin\Debug\net7.0\ConsoleApp20.deps.json
+D:\Coding\C#\Practice\ConsoleApp20\ConsoleApp20\bin\Debug\net7.0\ConsoleApp20.runtimeconfig.json
+D:\Coding\C#\Practice\ConsoleApp20\ConsoleApp20\bin\Debug\net7.0\ConsoleApp20.dll
+D:\Coding\C#\Practice\ConsoleApp20\ConsoleApp20\bin\Debug\net7.0\ConsoleApp20.pdb
+D:\Coding\C#\Practice\ConsoleApp20\ConsoleApp20\obj\Debug\net7.0\ConsoleApp20.dll
+D:\Coding\C#\Practice\ConsoleApp20\ConsoleApp20\obj\Debug\net7.0\refint\ConsoleApp20.dll
+D:\Coding\C#\Practice\ConsoleApp20\ConsoleApp20\obj\Debug\net7.0\ConsoleApp20.pdb
+D:\Coding\C#\Practice\ConsoleApp20\ConsoleApp20\obj\Debug\net7.0\ConsoleApp20.genruntimeconfig.cache
+D:\Coding\C#\Practice\ConsoleApp20\ConsoleApp20\obj\Debug\net7.0\ref\ConsoleApp20.dll
