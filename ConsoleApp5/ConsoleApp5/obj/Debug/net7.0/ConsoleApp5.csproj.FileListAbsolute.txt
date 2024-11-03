@@ -1,0 +1,15 @@
+D:\Coding\C#\Practice\ConsoleApp5\ConsoleApp5\bin\Debug\net7.0\ConsoleApp5.exe
+D:\Coding\C#\Practice\ConsoleApp5\ConsoleApp5\bin\Debug\net7.0\ConsoleApp5.deps.json
+D:\Coding\C#\Practice\ConsoleApp5\ConsoleApp5\bin\Debug\net7.0\ConsoleApp5.runtimeconfig.json
+D:\Coding\C#\Practice\ConsoleApp5\ConsoleApp5\bin\Debug\net7.0\ConsoleApp5.dll
+D:\Coding\C#\Practice\ConsoleApp5\ConsoleApp5\bin\Debug\net7.0\ConsoleApp5.pdb
+D:\Coding\C#\Practice\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.csproj.AssemblyReference.cache
+D:\Coding\C#\Practice\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Practice\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.AssemblyInfoInputs.cache
+D:\Coding\C#\Practice\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.AssemblyInfo.cs
+D:\Coding\C#\Practice\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Practice\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.dll
+D:\Coding\C#\Practice\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\refint\ConsoleApp5.dll
+D:\Coding\C#\Practice\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.pdb
+D:\Coding\C#\Practice\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.genruntimeconfig.cache
+D:\Coding\C#\Practice\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\ref\ConsoleApp5.dll
